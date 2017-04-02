@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "251286361752",
+    "firebase_url": "https://takehomeassignment09-rachelm.firebaseio.com",
+    "project_id": "takehomeassignment09-rachelm",
+    "storage_bucket": "takehomeassignment09-rachelm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251286361752:android:bd4384654840c235",
+        "android_client_info": {
+          "package_name": "rachelmiller.takehomeassignment09_rachelm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251286361752-gsjh6rovqu2l0l8rvfuu5ptdptkjirpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtlzAiARSaG5YGHLUEJgMixwwfyc0u44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
